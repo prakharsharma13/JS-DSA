@@ -16,3 +16,6 @@ var createGrid = function(m, n) {
 
     return grid.map(row => row.join(''));
 };
+
+
+//create grid with one path
